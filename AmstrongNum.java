@@ -12,9 +12,9 @@ public class AmstrongNum {
             temp/=10; 
         }
         if(sum==num){
-             System.out.println(num+ " is a Armstrong Number");
+             System.out.println(num+ " Is a Armstrong Number");
         }else{
-           System.out.println(num+ " is a not Armstrong Number"); 
+           System.out.println(num+ " Is a not Armstrong Number"); 
         }
        
         sc.close();
